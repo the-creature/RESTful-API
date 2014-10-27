@@ -1,0 +1,27 @@
+{
+  "name": "RESTful-API",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-creature/RESTful-API.git"
+  },
+  "author": "Liccy Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-creature/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/the-creature/RESTful-API",
+  "dependencies": {
+    "express": "^4.10.0",
+    "mongoose": "^3.8.18",
+    "node-restful": "^0.1.17",
+    "body-parser": "^1.9.1",
+    "nodemon": "^1.2.1",
+    "mongodb": "^1.4.19"
+  }
+}
